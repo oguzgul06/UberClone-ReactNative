@@ -13,7 +13,8 @@
     "@reduxjs/toolkit": "^1.6.1",
     "react": "17.0.2",
     "react-native": "0.65.1",
-    "react-redux": "^7.2.4"
+    "react-redux": "^7.2.4",
+    "tailwind-react-native-classnames": "^1.4.3"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
